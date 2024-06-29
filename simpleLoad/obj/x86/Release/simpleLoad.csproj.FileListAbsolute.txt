@@ -1,0 +1,6 @@
+C:\Users\win\source\repos\simpleLoad\bin\x86\Release\simpleLoad.dll
+C:\Users\win\source\repos\simpleLoad\bin\x86\Release\simpleLoad.pdb
+C:\Users\win\source\repos\simpleLoad\obj\x86\Release\simpleLoad.csproj.AssemblyReference.cache
+C:\Users\win\source\repos\simpleLoad\obj\x86\Release\simpleLoad.csproj.CoreCompileInputs.cache
+C:\Users\win\source\repos\simpleLoad\obj\x86\Release\simpleLoad.dll
+C:\Users\win\source\repos\simpleLoad\obj\x86\Release\simpleLoad.pdb
